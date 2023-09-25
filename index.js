@@ -25,8 +25,8 @@ function scuberGreetingForFeet(feet) {
         return "Thank you.";
       default:
         return "Bye.";
-    }
   }
+}
   
   
 
